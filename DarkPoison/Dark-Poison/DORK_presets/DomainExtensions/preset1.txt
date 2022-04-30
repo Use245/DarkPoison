@@ -1,0 +1,4 @@
+.us
+.gov.us
+.com
+.co

@@ -1,0 +1,14 @@
+allinanchor:
+cache:
+inanchor:
+intext:
+insubject:
+allintext:
+info:
+link:
+filetype:
+allintitle:
+allinurl:
+source:
+intitle:
+inurl:
